@@ -529,6 +529,7 @@ html, body {
         height: 45px !important;
     }
 
+
     #name h2{
         font-size: 13px;
         margin-left: 6px;
@@ -565,6 +566,7 @@ html, body {
     }
 
     #head1{
+        margin-top: 10%;
         font-size: 15px;
         margin-left: 20%;
     }
