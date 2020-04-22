@@ -55,12 +55,13 @@ html, body {
     letter-spacing: 5px;
     font-family: 'Gotu', sans-serif;
     color: rgb(0, 0, 0);
+    margin-top: -10px;
     
 }
 
 #name h6{
     font-size: 80%;
-    margin-top: -3px;
+    margin-top: -6px;
     margin-left: 28px;
     text-transform: uppercase;
     letter-spacing: 2px;
